@@ -1,0 +1,25 @@
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 20%;
+}
+
+/* .albumWrapper {
+    border: 1px solid purple;
+} */
+
+.albumTitle {
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+.imageTitle {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.imageWrapper {
+    width: 50%;
+    display: inline-block;
+}
